@@ -1,2 +1,3 @@
 # hackmud-scripts
-All my hackmud scripts (Mostly)
+
+Some of my hackmud scripts
